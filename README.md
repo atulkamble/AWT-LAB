@@ -1,4 +1,4 @@
-# MIT-FYMCA-AWT-LAB
+# MIT FYMCA AWT LAB
 Manual &amp; Code Instructions etc.
 
 System Details: updated php version 7.4.3
