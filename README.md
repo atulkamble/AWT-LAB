@@ -6,8 +6,8 @@ System Details: updated php version 7.4.3
 - For Linux check php version from terminal >>> php --version
 
 Troubleshoot:
-- For Windows Add path of php folder to Environment Variables Setting
-- For Linux sudo apt install php
+- For Windows Add path of php folder to Environment Variables Settings.
+- For Linux fire command >> sudo apt install php
 
 [>>Download Lab Manual<<](https://bit.ly/AWT_Lab_Manual)
 - Fill the required Details
