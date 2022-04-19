@@ -14,7 +14,7 @@ Troubleshoot:
 - Paste Code & Output in each assignment Section.
 
 ## Assignment ; Codes
-|No. |Title| Project Code Folder |
+|No. |Title| Project Files |
 | --- | ----- | ------ | 
 | 1|  | [student.php](https://github.com/atulkamble/AWT-LAB/blob/main/student.php), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
 | |  |  | 
