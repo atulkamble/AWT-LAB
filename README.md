@@ -13,9 +13,7 @@ Troubleshoot:
 - Fill the required Details
 - Paste Code & Output in each assignment Section.
 
-Assignments & Codes
-
-## Interview Schedule &amp; Details
+## Assignment ; Codes
 |No. |Title| Project Code Folder |
 | --- | ----- | ------ | 
 | |  |  | 
