@@ -16,7 +16,6 @@ Troubleshoot:
 ## Assignment ; Codes
 |No. |Title| Project Files |
 | --- | ----- | ------ | 
-| 1| Create student registration form using text box, check box, radio button, select, submit
-button. And display user inserted value in new PHP page. | [student.php](https://github.com/atulkamble/AWT-LAB/blob/main/student.php), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
+| 1| Create student registration form using text box, check box, radio button, select, submit button. And display user inserted value in new PHP page. | [student.php](https://github.com/atulkamble/AWT-LAB/blob/main/student.php), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
 | |  |  | 
 | |  |  | 
