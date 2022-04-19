@@ -16,6 +16,6 @@ Troubleshoot:
 ## Assignment ; Codes
 |No. |Title| Project Code Folder |
 | --- | ----- | ------ | 
-| |  |  | 
+| 1|  | [student.php](https://github.com/atulkamble/AWT-LAB/blob/main/student.php)[welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
 | |  |  | 
 | |  |  | 
