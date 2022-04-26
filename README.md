@@ -18,7 +18,7 @@ Troubleshoot:
 | --- | ----- | ------ | 
 | 1| Create student registration form using text box, check box, radio button, select, submit button. And display user inserted value in new PHP page. | [student.php](https://github.com/atulkamble/AWT-LAB/blob/main/student.php), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
 | 2| Create Website Registration Form using text box, check box, radio button, select, submit button. And display user inserted value in new PHP page. | [index.html](https://github.com/atulkamble/AWT-LAB/blob/main/index.html), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
-| 3| Write two different PHP script to demonstrate passing variables through a URL. |  | 
+| 3| Write two different PHP script to demonstrate passing variables through a URL. |[index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php), [retrive.php](https://github.com/atulkamble/AWT-LAB/blob/main/retrive.php)  | 
 | 4| Write two different PHP script to demonstrate passing variables with sessions.|  | 
 | 5| Write PHP script to demonstrate passing variables with cookies. |  | 
 | 6|  |  | 
