@@ -20,6 +20,6 @@ Troubleshoot:
 | 2| Create Website Registration Form using text box, check box, radio button, select, submit button. And display user inserted value in new PHP page. | [index.html](https://github.com/atulkamble/AWT-LAB/blob/main/index.html), [welcome.php](https://github.com/atulkamble/AWT-LAB/blob/main/welcome.php) | 
 | 3| Write two different PHP script to demonstrate passing variables through a URL. |[index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php), [retrive.php](https://github.com/atulkamble/AWT-LAB/blob/main/retrive.php)  | 
 | 4| Write two different PHP script to demonstrate passing variables with sessions.|[index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php), [retrive.php](https://github.com/atulkamble/AWT-LAB/blob/main/retrive.php)  | 
-| 5| Write PHP script to demonstrate passing variables with cookies. |  | 
+| 5| Write PHP script to demonstrate passing variables with cookies. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) | 
 | 6|  |  | 
 | 7|  |  |  
