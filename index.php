@@ -1,7 +1,9 @@
-<?php
- $fname="Dr. APJ Abdul";
- $lname="Kalam";
-?>
-<a href="retrive.php?first_name=<?php echo $fname; ?>&last_name=<?php echo $lname; ?>">
-Click here to Pass Variable through URL
-</a>
+<html>
+<head>
+<title>Passing Variables: Session</title>
+</head>
+<form method="post" action="retrive.php">
+ Enter Your name : <input type="text" name="fname">
+ <input type="submit" name="submit" value="Create session">
+</form>
+</html>
