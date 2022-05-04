@@ -12,8 +12,8 @@ Troubleshoot:
 [>>Download Lab Manual<<](https://bit.ly/AWT_Lab_Manual)
 [Fill the Project List](https://bit.ly/AWT_Project_List)
 
-https://bit.ly/AWT_Project_List
-https://bit.ly/AWT_Lab_Manual
+- https://bit.ly/AWT_Project_List
+- https://bit.ly/AWT_Lab_Manual
 
 - Fill the required Details
 - Paste Code & Output in each assignment Section.
