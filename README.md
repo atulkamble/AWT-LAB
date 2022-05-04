@@ -10,9 +10,9 @@ Troubleshoot:
 - For Linux fire command >> sudo apt install php
 
 [>>Download Lab Manual<<](https://bit.ly/AWT_Lab_Manual)
-[Fill the Project List](https://bit.ly/AWT_Project_List)
-
 - https://bit.ly/AWT_Project_List
+
+[Fill the Project List](https://bit.ly/AWT_Project_List)
 - https://bit.ly/AWT_Lab_Manual
 
 - Fill the required Details
