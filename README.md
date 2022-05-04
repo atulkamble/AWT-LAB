@@ -18,6 +18,9 @@ Troubleshoot:
 - Fill the required Details
 - Paste Code & Output in each assignment Section.
 
+
+[Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing)
+
 ## Assignment ; Codes
 |No. |Title| Project Files |
 | --- | ----- | ------ | 
