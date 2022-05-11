@@ -17,7 +17,7 @@ Troubleshoot:
 
 - Fill the required Details
 - Paste Code & Output in each assignment Section.
-- Upload your project code to github repo, paste link of that repo in project list | excel sheet
+- Upload your project code and screenshots to github repo, paste link of that repo in project list | excel sheet
 
 
 [Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing)
