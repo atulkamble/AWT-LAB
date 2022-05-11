@@ -1,21 +1,28 @@
 <?php
-//create function with an exception
-function checkNum($number) {
-  if($number>1) {
-    throw new Exception("Value must be 1 or below");
-  }
-  return true;
+echo "Connected to database stage Started <br>";
+
+/* Ways to connect to MySql 
+1. MySQLi EXTENSION
+2. PDO
+*/
+
+// Connecting to database
+$servername = "localhost";
+$username = "root";
+$password = "";
+// $database = "database";
+
+// Create Connection
+
+$conn = mysqli_connect($servername, $username, $password);
+
+// Die if connection was not successfull
+
+if (!$conn){
+die("Connection failed: ". mysqli_connect_error());
+}
+else{
+    echo "Connected successfully";
 }
 
-//trigger exception in a "try" block
-try {
-  checkNum(2);
-  //If the exception is thrown, this text will not be shown
-  echo 'If you see this, the number is 1 or below';
-}
-
-//catch exception
-catch(Exception $e) {
-  echo 'Message: ' .$e->getMessage();
-}
 ?>
