@@ -1,26 +1,17 @@
-<html>
-<head>
-<title>Cookie</title>
-</head>
-<body>
- <form method="post">
-  Enter Your Name : 
-<input type="text" name="fname" value="<?php echo $_COOKIE['myname']; ?>">
-  <input type="submit" value="Create Cookie" name="submit">
- </form>
-</body>
-</html>
 <?php
-if(isset($_POST['submit']))
+$handle = fopen("counter.txt", "r");
+if(!$handle)
+{ 
+ echo "could not open the file" ;
+}
+else
 {
- $name=$_POST['fname'];
- setcookie('myname',$name,time()+100,"/","",0);
- 
- echo "Your name is : ".$_COOKIE['myname'];
- 
- if(!isset($_COOKIE['myname']))
- {
-  echo "failed to create cookie";
- }
+ $counter = (int ) fread($handle,20);
+ fclose ($handle);
+ $counter++;
+ echo" <strong> you are visitor no ". $counter . " </strong> " ;
+        $handle = fopen("counter.txt", "w" );
+        fwrite($handle,$counter);
+        fclose($handle);
 }
 ?>
