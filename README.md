@@ -30,5 +30,5 @@ Troubleshoot:
 | 4| Write two different PHP script to demonstrate passing variables with sessions.|[index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php), [retrive.php](https://github.com/atulkamble/AWT-LAB/blob/main/retrive.php)  | 
 | 5| Write PHP script to demonstrate passing variables with cookies. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) | 
 | 6| Write a program to keep track of how many times a visitor has loaded the page. | [index.html](https://github.com/atulkamble/AWT-LAB/blob/main/index.html) [counter.txt](https://github.com/atulkamble/AWT-LAB/blob/main/counter.txt) | 
-| 7| Write an example of Error-handling using exceptions. |  |  
+| 7| Write an example of Error-handling using exceptions. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) |  
 | 8| Write a PHP script to connect MySQL server from your website. |  |
