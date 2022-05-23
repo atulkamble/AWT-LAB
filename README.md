@@ -33,8 +33,9 @@ Troubleshoot:
 | 6| Write a program to keep track of how many times a visitor has loaded the page. | [index.html](https://github.com/atulkamble/AWT-LAB/blob/main/index.html) [counter.txt](https://github.com/atulkamble/AWT-LAB/blob/main/counter.txt) | 
 | 7| Write an example of Error-handling using exceptions. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) |  
 | 8| Write a PHP script to connect MySQL server from your website. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) |
-| 9| Write a program to read customer information like cust_no, cust_name, Item_purchase, and
-mob_no, from customer table and display all this information in table format on output screen. | []() |
-| 10| | []() |
-| 11| | []() |
-| 12| | []() |
+| 9| Write a program to read customer information like cust_no, cust_name, Item_purchase, and mob_no, from customer table and display all this information in table format on output screen. | []() |
+| 10| Write a program to edit name of customer to “Bob” with cust_no =1, and to delete record
+with cust_no=3.| []() |
+| 11| Write a program to read employee information like emp_no, emp_name, designation and
+salary from EMP table and display all this information using table format| []() |
+| 12| Create a dynamic web site using PHP and MySQL.| []() |
