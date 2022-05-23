@@ -1,0 +1,24 @@
+sudo mysql -u root -p
+
+SHOW DATABASES;
+
+USE mit;
+
+CREATE TABLE customer
+( customer_id int NOT NULL,
+  customer_name char(50) NOT NULL,
+  items_purchased char(50),
+  phone_no char(10)
+);
+
+
+INSERT INTO customer ( customer_id, customer_name, items_purchased, phone_no) VALUES
+  ( '0', 'Ram', 'Bat', '9856784325' ),
+  ( '1', 'Bhim', 'Ball', '9987562909' ),
+  ( '2', 'Guru', 'Stumps', '9087451256' );
+
+
+SHOW TABLES;
+DESCRIBE customer;
+
+SELECT * FROM customer;
