@@ -33,3 +33,7 @@ Troubleshoot:
 | 6| Write a program to keep track of how many times a visitor has loaded the page. | [index.html](https://github.com/atulkamble/AWT-LAB/blob/main/index.html) [counter.txt](https://github.com/atulkamble/AWT-LAB/blob/main/counter.txt) | 
 | 7| Write an example of Error-handling using exceptions. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) |  
 | 8| Write a PHP script to connect MySQL server from your website. | [index.php](https://github.com/atulkamble/AWT-LAB/blob/main/index.php) |
+| 9| | |
+| 10| | |
+| 11| | |
+| 12| | |
