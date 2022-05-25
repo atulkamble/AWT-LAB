@@ -1,4 +1,7 @@
 # MIT FYMCA AWT LAB
+
+- [AWT Sample Practical Slips](AWT Sample Practical Slips)
+
 Manual &amp; Code Instructions etc.
 
 System Details: updated php version 7.4.3
