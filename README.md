@@ -1,6 +1,6 @@
 # MIT FYMCA AWT LAB
 
-- [AWT Sample Practical Slips]([AWT Sample Practical Slips](https://github.com/atulkamble/AWT-LAB/blob/main/AWT%20Practical%20Slips.docx))
+- [AWT Sample Practical Slips](https://github.com/atulkamble/AWT-LAB/blob/main/AWT%20Practical%20Slips.docx)
 
 Manual &amp; Code Instructions etc.
 
