@@ -1,5 +1,12 @@
 # MIT FYMCA AWT LAB
 
+# Tools used
+
+- VS Code
+- VS Code Extensions - PHP Server, PHP Debug, PHP Extension Pack, PHP Intelephense, PHP IntelliSense
+
+# Details
+
 - [Download AWT Sample Practical Slips](https://github.com/atulkamble/AWT-LAB/blob/main/Updated%20AWT%20Slip%20List.pdf)
 
 Manual &amp; Code Instructions etc.
